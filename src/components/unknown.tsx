@@ -1,3 +1,4 @@
+"use client";
 import React from 'react'
 import type {PortableTextReactComponents} from '../types'
 import {unknownTypeWarning} from '../warnings'

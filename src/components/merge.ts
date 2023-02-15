@@ -1,3 +1,4 @@
+"use client";
 import type {PortableTextReactComponents, PortableTextComponents} from '../types'
 
 export function mergeComponents(
