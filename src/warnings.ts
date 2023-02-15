@@ -1,3 +1,4 @@
+"use client";
 const getTemplate = (type: string, prop: string): string =>
   `[@portabletext/react] Unknown ${type}, specify a component for it in the \`components.${prop}\` prop`
 

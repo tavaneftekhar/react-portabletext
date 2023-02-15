@@ -1,3 +1,5 @@
+"use client";
+
 import React, {ReactNode, useMemo} from 'react'
 import {
   LIST_NEST_MODE_HTML,

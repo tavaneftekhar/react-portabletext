@@ -1,3 +1,4 @@
+"use client";
 export * from './types'
 export type {ToolkitListNestMode as ListNestMode} from '@portabletext/toolkit'
 export {toPlainText} from '@portabletext/toolkit'
